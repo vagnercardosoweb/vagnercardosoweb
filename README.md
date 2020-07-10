@@ -13,7 +13,7 @@ Tenho interesse em escalabilidade de aplicações, infraestrutura, DevOps, melho
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vagnercardosoweb)](https://github.com/vagnercardosoweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vcwebnetworks/)](https://www.linkedin.com/in/vcwebnetworks/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vcwebnetworks)](https://twitter.com/vcwebnetworks)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544984529998&text=Olá, achei seu perfil no github!)](https://api.whatsapp.com/send?phone=5544984529998&text=Olá, achei seu perfil no github!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544984529998&text=Ol%C3%A1%2C%20achei%20seu%20perfil%20no%20github!)](https://api.whatsapp.com/send?phone=5544984529998&text=Ol%C3%A1%2C%20achei%20seu%20perfil%20no%20github!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnercardosoweb@gmail.com)](mailto:vagnercardosoweb@gmail.com)
 
 <!--
