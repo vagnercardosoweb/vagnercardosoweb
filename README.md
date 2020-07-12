@@ -1,12 +1,32 @@
-### Olá 👋
+### Olá, bem vindo(a) 👋
 
-Meu nome é **Vagner dos Santos Cardoso** sou **Software Engineer**, com mais de 8 anos de experiência em desenvolvimento web e sistemas. 
+Meu nome é **Vagner Cardoso**, tenho **25 anos** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
 
-Trabalho em projetos de grandes portes, médio e também atuo em projetos mais pequenos. 
+## 🥰 Aonde tudo começou
 
-Possuo sólidos conhecimentos em programação funcional, OOP, PHP, Javascript, Node, React, React Native, Vue, CSS3, HTML5, MySQL, SQL Server, Postgres. 
+Minha paixão começou quando eu jogava e como criança corioso eu queria entender como funcionava, como fazia e com isso encontrei o desenvolvimento de sites e me apaixonei, me lembro quando fiz meu primeiro **Hello World** haha foi incrível. Cresci e quando completei meus **17 anos** foi quando eu realmente me aprofundei e até hoje a cada dia me aprofundo mais.
 
-Tenho interesse em escalabilidade de aplicações, infraestrutura, DevOps, melhores práticas de desenvolvimento, TDD. 
+## 🖥 Trabalho com
+
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- NodeJS
+- ReactJS
+- React Native
+- VueJS
+- MySQL
+- PostgreSQL
+- MSSQL
+- Docker
+- Kubernetes 
+- Serviços AWS
+- Serviços Google GCP
+- Serviços de CI/CD
+- Versionamento de código (Github, Gitlab, Bitbucket)
+
+> Não sou especialista em tudo, mais o conhecimento é gratificante.
 
 ---
 
