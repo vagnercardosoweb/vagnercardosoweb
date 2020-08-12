@@ -1,32 +1,24 @@
 ### Olá, bem vindo(a) 👋
 
-Meu nome é **Vagner Cardoso**, tenho **25 anos** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
+Meu nome é **Vagner Cardoso**, tenho **25 anos**, trabalho como **Software Engineer** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
 
 ## 🥰 Aonde tudo começou
 
-Minha paixão começou quando eu jogava e como criança corioso eu queria entender como funcionava, como fazia e com isso encontrei o desenvolvimento de sites e me apaixonei, me lembro quando fiz meu primeiro **Hello World** haha foi incrível. Cresci e quando completei meus **17 anos** foi quando eu realmente me aprofundei e até hoje a cada dia me aprofundo mais.
+Minha paixão começou quando eu jogava e como criança curioso eu queria entender como funcionava, como fazia e com isso encontrei o desenvolvimento de sites e me apaixonei, me lembro quando fiz meu primeiro **Hello World** haha foi incrível. Cresci e quando completei meus **17 anos** foi quando eu realmente me aprofundei e até hoje a cada dia me dedico a estudar e me especializar na minha área.
 
 ## 🖥 Trabalho com
 
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- NodeJS
-- ReactJS
-- React Native
-- VueJS
-- MySQL
-- PostgreSQL
-- MSSQL
-- Docker
-- Kubernetes 
-- Serviços AWS
-- Serviços Google GCP
-- Serviços de CI/CD
-- Versionamento de código (Github, Gitlab, Bitbucket)
+- Back-end **(PHP, NodeJS, MySQL, PostgreSQL, MSSQL)**
+- Front-end **(HTML5, CSS, ReactJS, VueJS)**
+- Mobile **(React Native)**
+- Infra **(Docker, AWS, Google GCP, CI/CD)**
+- Versionamento de códigos **(Github, Gitlab, Bitbucket)**
 
-> Não sou especialista em tudo, mais o conhecimento é gratificante.
+## 📚 Estudando...
+
+Estudar é vida ❤️
+
+Vivo em constantes estudos para sempre poder me atualizar nas princípais tecnologias do mercado.
 
 ---
 
