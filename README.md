@@ -29,6 +29,9 @@ Vivo em constantes estudos para sempre poder me atualizar nas princípais tecnol
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnercardosoweb@gmail.com)](mailto:vagnercardosoweb@gmail.com)
 
 <!--
+
+Sou um desenvolvedor FULL STACK, com mais de 8 anos de experiência em desenvolvimento web e sistemas. Trabalhei em algumas aplicações de grande, média e de pequeno porte. Possuo sólidos conhecimentos em programação funcional, OOP, PHP, Javascript, Node, React, React Native, Vue, CSS3, HTML5, MySQL, SQL Server, Postgres. Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, TDD.
+
 **vagnercardosoweb/vagnercardosoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
