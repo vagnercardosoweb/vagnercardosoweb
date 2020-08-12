@@ -18,7 +18,7 @@ Minha paixão começou quando eu jogava e como criança curioso eu queria entend
 
 Estudar é vida ❤️
 
-Vivo em constantes estudos para sempre poder me atualizar nas princípais tecnologias do mercado.
+Vivo em constantes estudos para sempre poder me atualizar nas principais tecnologias do mercado.
 
 ---
 
