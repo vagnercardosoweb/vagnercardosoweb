@@ -9,7 +9,7 @@ Minha paixão começou quando eu jogava e como criança curioso eu queria entend
 ## 🖥 Trabalho com
 
 - Back-end **(PHP, NodeJS, MySQL, PostgreSQL, MSSQL)**
-- Front-end **(HTML5, CSS, ReactJS, VueJS)**
+- Front-end **(HTML5, CSS, ReactJS, VueJS, JavaScript)**
 - Mobile **(React Native)**
 - Infra **(Docker, AWS, Google GCP, CI/CD)**
 - Versionamento de códigos **(Github, Gitlab, Bitbucket)**
