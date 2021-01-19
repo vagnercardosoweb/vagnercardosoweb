@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) 👋
 
-Meu nome é **Vagner Cardoso**, tenho **25 anos**, trabalho como **Software Engineer** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
+Meu nome é **Vagner Cardoso**, tenho **26 anos**, trabalho como **Software Engineer** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
 
 ## 🥰 Aonde tudo começou
 
