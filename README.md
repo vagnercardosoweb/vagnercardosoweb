@@ -1,24 +1,14 @@
-### Olá, bem vindo(a) 👋
+Olá, bem vindo(a).
 
-Meu nome é **Vagner Cardoso**, tenho **26 anos**, trabalho como **Software Engineer** e sou um eterno apaixonado pela tecnologia e desenvolvimento de sistemas, sites, aplicativos, devops e muito mais.
+Meu nome é Vagner dos Santos Cardoso, tenho 27 anos, trabalho como Software Engineer e sou um eterno apaixonado pela tecnologia e programação no geral, sou rigoroso no que faço e gosto da verdade e honestidade, gosto de aprender e também ensinar quando algum colega precisa, sei ouvir e também dar minha opinião e sempre tentando dar o meu melhor. 
 
-## 🥰 Aonde tudo começou
+Tecnologias que trabalho:
 
-Minha paixão começou quando eu jogava e como criança curioso eu queria entender como funcionava, como fazia e com isso encontrei o desenvolvimento de sites e me apaixonei, me lembro quando fiz meu primeiro **Hello World** haha foi incrível. Cresci e quando completei meus **17 anos** foi quando eu realmente me aprofundei e até hoje a cada dia me dedico a estudar e me especializar na minha área.
-
-## 🖥 Trabalho com
-
-- Back-end **(PHP, NodeJS, MySQL, PostgreSQL, MSSQL, MongoDB)**
-- Front-end **(HTML5, CSS, ReactJS, VueJS, JavaScript)**
-- Mobile **(React Native)**
-- Infra **(Docker, AWS, Google GCP, CI/CD, Kubernetes)**
-- Versionamento de códigos **(Github, Gitlab, Bitbucket)**
-
-## 📚 Estudando...
-
-Estudar é vida ❤️
-
-Vivo em constantes estudos para sempre poder me atualizar nas principais tecnologias do mercado.
+- Back-end (PHP, NodeJS, MySQL, PostgreSQL, MSSQL)
+- Front-end (HTML5, CSS, JavaScript, ReactJS, VueJS)
+- Mobile (React Native)
+- Infra (Docker, AWS, Google GCP, CI/CD, Kubernetes)
+- Git (Github, Gitlab, Bitbucket)
 
 ---
 
