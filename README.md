@@ -4,7 +4,7 @@ Meu nome é Vagner dos Santos Cardoso, tenho 27 anos, trabalho como Software Eng
 
 Tecnologias que trabalho:
 
-- Back-end (PHP, NodeJS, MySQL, PostgreSQL, MSSQL)
+- Back-end (PHP, GOLang NodeJS, MySQL, PostgreSQL, MSSQL)
 - Front-end (HTML5, CSS, JavaScript, ReactJS, VueJS)
 - Mobile (React Native)
 - Infra (Docker, AWS, Google GCP, CI/CD, Kubernetes)
