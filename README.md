@@ -1,8 +1,11 @@
 Olá, bem vindo(a).
 
-Meu nome é Vagner dos Santos Cardoso, tenho 28 anos, trabalho como Software Engineer e sou um eterno apaixonado pela tecnologia.
+Meu nome é **Vagner dos Santos Cardoso**, tenho **28** anos, trabalho como **Software Engineer**.
 
-Tecnologias que trabalho:
+Resolver problemas requer muito foco, persistência, dedicação e estudos, não existe
+desculpas quando fazemos oque gostamos.
+
+Trabalho com:
 
 - Back-end (PHP, GoLang, NodeJS, MySQL, PostgreSQL, MSSQL)
 - Front-end (HTML5, CSS, JavaScript, ReactJS, VueJS)
